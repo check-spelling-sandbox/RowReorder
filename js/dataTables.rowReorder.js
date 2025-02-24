@@ -771,7 +771,7 @@ $.extend(RowReorder.prototype, {
 	},
 
 	/**
-	 * Returns whether the given reactangles intersect or not
+	 * Returns whether the given rectangles intersect or not
 	 *
 	 * @private
 	 */
