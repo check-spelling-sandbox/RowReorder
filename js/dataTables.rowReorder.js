@@ -928,7 +928,7 @@ RowReorder.defaults = {
  */
 var Api = $.fn.dataTable.Api;
 
-// Doesn't do anything - work around for a bug in DT... Not documented
+// Doesn't do anything - workaround for a bug in DT... Not documented
 Api.register('rowReorder()', function () {
 	return this;
 });
