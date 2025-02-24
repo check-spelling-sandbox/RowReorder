@@ -448,7 +448,7 @@ $.extend(RowReorder.prototype, {
 
 		if (cancelable) {
 			if (!this.s.dropAllowed) {
-				// Move the row back to its original position becasuse the drop is not allowed
+				// Move the row back to its original position because the drop is not allowed
 				insertPoint =
 					start.rowIndex > this.s.lastInsert ? start.rowIndex + 1 : start.rowIndex;
 			}
