@@ -26,7 +26,7 @@ new DataTable('#example', {
 
 <info><![CDATA[
 
-This example shows DataTables and the RowReorder extension being used with [Fomantic-UI](https://fomantic-ui.com) (a maintained fork of [Semantic-UI](https://semantic-ui.com/)). The DataTables / Formantic-UI integration provides seamless integration for DataTables to be used in a Formantic-UI page.
+This example shows DataTables and the RowReorder extension being used with [Fomantic-UI](https://fomantic-ui.com) (a maintained fork of [Semantic-UI](https://semantic-ui.com/)). The DataTables / Fomantic-UI integration provides seamless integration for DataTables to be used in a Fomantic-UI page.
 
 ]]></info>
 
